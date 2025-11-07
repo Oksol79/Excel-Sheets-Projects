@@ -54,6 +54,7 @@ ABC analysis of products was conducted by sales volume, revenue, and profit (for
 **8. Key findings**
 The most profitable product categories and countries were identified. The relationship between delivery speed and profitability was found.
 The periods with the highest sales volumes were determined. Analytical recommendations were formed for optimizing the assortment and logistics.
+
 <img width="1898" height="867" alt="image" src="https://github.com/user-attachments/assets/e596379f-6445-4de7-a047-8abe077416bc" />
 
 ### Project 2: FCA based Ontology for Intelligent Diagnostics
@@ -99,6 +100,7 @@ Table 1 - Example of a tabular representation of diagnostic information about ob
 To build the class structure, the following tasks were solved:  
 - formation of initial data on the subject area.
 - analysis of relationships between objects and properties.  
+
 To solve the first task, the knowledge of diagnostic experts was used, on the basis of which the tables were filled in.  
 To solve the second task, a method of automated formation of a taxonomy of concept classes was developed.  
 The basic information for distinguishing classes is the statement of the fact of the presence of certain properties in individual objects or groups of objects.  
