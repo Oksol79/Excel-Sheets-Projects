@@ -1,11 +1,10 @@
-# Data Analysis Portfolio: Excel & Google Sheets
-Hello! This is my data analytics portfolio, a collection of practical projects built in Excel and Google Sheets.  
-Here I demonstrate my skills in:  
-- cleaning, processing, and analyzing data;
-- building dynamic reports and dashboards;
-- interpreting results for decision-making.
+# Data Analyst Portfolio 
+This portfolio showcases the hands-on projects I completed to build my skills in Excel, Google Sheets, SQL, Python, Matplotlib, Seaborn, and others. In my projects, I demonstrate my ability to:
+ - clean, process, and analyze data;
+ - create dynamic reports and dashboards;
+- interpret results to make informed decisions.
 
-Each project reflects my approach to results-oriented analytics.
+Each project showcases my analytical approach and drive to transform data into actionable business insights.
 ## Table of Contents
 - [Projects](#projects)
   - [Project 1: Sales Dynamics & ABC Analysis](#project-1-sales-dynamics--abc-analysis)
